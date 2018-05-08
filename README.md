@@ -1,3 +1,3 @@
-Google chrome
+#Google Chrome
 
-This scripts install latest chrome on ubuntu and debian based os.
+This scripts install latest chrome on ubuntu and debian based OS.
