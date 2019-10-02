@@ -10,4 +10,4 @@ chmod +x chrome.sh
 _______
 ````
 bash chrome.sh
-```
+````
